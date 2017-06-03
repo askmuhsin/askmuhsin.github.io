@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -22,7 +21,7 @@ I am an Electronics Engineer passionate about Artificial Intelligence, Robotics 
 I have over 2 years of experience in Embedded Systems development and Systems Integration in the domain of IoT solutions and ELV systems. 
 Beyond my professional experience, I have been interested in coding and tinkering with circuits for most of my life.
 Currently, I am pursuing my Masters in Mechatronics Engineering at the University of Malaya, Kuala Lumpur.
-If you’d like to discuss an interesting project or want to grab a cup of coffee, please reach out via email!(askmuhsin@gmail.com).
+If you’d like to discuss an interesting project or want to grab a cup of coffee, please reach out via email!  (askmuhsin@gmail.com).
 </p>
 <br />
 <h2>Education</h2>
@@ -53,14 +52,3 @@ Designing and Programming RFID based access control and EAS systems.
 Budgetary analysis, project scheduling and management for projects.
 </li>
 
-
-<!-- THIS DIV CENTERS OUR LINKS -->
-<div id="bottom">
-
-</div>
-<!-- END CENTERING LINKS -->
-
-<!-- END DIV FOR OVERALL BOX -->
-</div>
-</body>
-</html>
