@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-<title>RESUME | JOHN DOE</title> 
+<title>Muhsin Mohammed</title> 
 <link rel="stylesheet" href="resume.css" type="text/css" />
 </head>
 <body>
@@ -10,114 +10,53 @@
 <div id="resume">
 <!-- THIS DIV CENTERS OUR HEADING -->
 <div id="topinfo">
-<p>
-<a href="index.html">RESUME HOME</a> | <a href="#">SIMPLE RESUME</a> | <a href="resume.html">COMPLEX RESUME</a> | <a href="code.html" target="_blank">SEE HTML</a> | <a href="resume.css" target="_blank">SEE CSS</a>
-</p>
-
-<h1>John Doe</h1>
-<h2>4242 Ghila Road</h2>
-<h2>Tucson, AZ 85701</h2>
+<h1>Muhsin Abdul Mohammed</h1>
+<h2>Kuala Lumpur, Malaysia</h2>
 <br />
 <!-- END CENTERING DIV -->
 </div>
 
 <h2>Profile</h2>
 <p>
-Desires a resident position in the Bastyr University Acupuncture and Oriental
-Medicine Residency Program. Able to be effective in a practice of any size. 
-Draw on experience with a range of patient issues, including additional work
-in women and childrenâ€™s care. Interested in health education for homeless. 
-Strong desire to contribute to the success of a program through an ability to
-initiate and maintain relationships. Creative developer and presenter of 
-educational information.
+I am an Electronics Engineer passionate about Artificial Intelligence, Robotics and Mesh Networks. 
+I have over 2 years of experience in Embedded Systems development and Systems Integration in the domain of IoT solutions and ELV systems. 
+Beyond my professional experience, I have been interested in coding and tinkering with circuits for most of my life.
+Currently, I am pursuing my Masters in Mechatronics Engineering at the University of Malaya, Kuala Lumpur.
+If you’d like to discuss an interesting project or want to grab a cup of coffee, please reach out via email!(askmuhsin@gmail.com).
 </p>
 <br />
 <h2>Education</h2>
-<h3>Masters of Acupuncture and Oriental Medicine,
+<h3>Masters of Engineering in Mechatronics,
 <br />
-Graduating June 2003</h3>
+2017-2018</h3>
 <p>
-Bastyr University, Kenmore, WA 1999 â€“ 2003
+University of Malaya, Malaysia
 </p>
-<ul>
-<li>
-	Completing an accredited program of coursework and supervised practice 
-	in Acupuncture and Oriental Medicine. Extensive exposure to issues involving
-	women and children.
-</li>
-</ul>
-<h3>Research Project</h3>
-<ul>
-<li>
-	Assisted the primary investigator in a double blind, randomized controlled
-	trail conducted at the Bastyr Center for Natural Health that evaluated the
-	effectiveness of Chinese herbs towards the control of Diabetes Mellitus in
-	post-menopausal women. Co-authored the research report that has been
-	submitted for publication to the Journal of Traditional Chinese Medicine.
-</li>
-</ul>
-<h3>Bachelor of Science, Zoology</h3>
+
+
+<h3>Bachelor of Engineering (Hons), Electrical and Electronics</h3>
 <p>
-Miami University, Oxford, OH 1991 - 1995
+University of Bradford 2010-2014
 </p>
-<ul>
-<li>
-	Participated in a community service project to increase citizen participation 
-	in a clean up campaign.
-</li>
-<li>
-	Served as project leader in a fund raising project sponsored by the University
-	Student Council towards helping homeless youthsâ€™ return back to school.
-</li>
-</ul>
-<br />
+
+
 <h2>Related Experience</h2>
-<h3>Bastyr University, Kenmore, WA 1999-present</h3>
+<h3>Enspark Systems Pvt. Ltd. 2015-2017</h3>
 <p>
-Teaching Assistant
+Embdedded Systems Designer
 </p>
 <ul>
 <li>
-	Assists professor in the Anatomy & Physiology class.
+Design and Development of IoT based Energy Management system.
+System integration of ELV systems, including intrusion, surveillance and automation systems.
+Designing and Programming RFID based access control and EAS systems.
+Budgetary analysis, project scheduling and management for projects.
 </li>
-<li>
-	Answers questions and demonstrate as needed.
-</li>
-</ul>
-<h3>Kenmore Youth Ministry, Kenmore, WA 2000-2001</h3>
-<p>
-Camp Group Leader
-</p>
-<ul>
-<li>
-	Participated in community youth group activities.
-</li>
-<li>
-	Developed activity programs now utilized by the youth ministry in helping
-	children improve reading skills.
-</li>
-</ul>
-<h3>Franciscan Care Center Nursing Home,
-<br />
-Seattle, WA 1999 - 2000 </h3>
-<p>
-Volunteer Recreation Worker
-</p>
-<ul>
-<li>
-	Provided social support to patients by reading to them, writing letters, 
-	and visiting with them.
-</li>
-<li>
-	Formed friendships which enriched lives of patients
-</li>
-</ul>
+
 
 <!-- THIS DIV CENTERS OUR LINKS -->
 <div id="bottom">
-<p>
-<a href="index.html">RESUME HOME</a> | <a href="#">SIMPLE RESUME</a> | <a href="resume.html">COMPLEX RESUME</a> | <a href="code.html" target="_blank">SEE HTML</a> | <a href="resume.css" target="_blank">SEE CSS</a>
-</p>
+
 </div>
 <!-- END CENTERING LINKS -->
 
