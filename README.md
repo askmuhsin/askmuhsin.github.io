@@ -1,51 +1,7 @@
-Muhsin Mohammed
-===============
-`askmuhsin@gmail.com`
+# Muhsin Mohammed
 
-<span style="font-family:Didot; font-size:2em;">A little bit about me ... </span>
-> Developing Machine Learning and Computer vision algorithms to provide actionable insights for businesses in the retail industry.
+This repository hosts my personal site at [askmuhsin.github.io](https://askmuhsin.github.io).
 
+The site provides an overview of my work as a machine learning engineer and highlights projects, experience and education.
 
-
-<span style="font-family:Didot; font-size:2em;">Education</span>
-<br />
-- - - -
-
-**University of Malaya**                                      January 2017- September 2018 
-   
-> * need adding
-
-
-<span style="font-family:Didot; font-size:2em;">Experience</span>
-<br />
-- - - -
-
-**Omnilytics.co, Data Scientist**                              September 2018 – Present
-> * need adding
-
-
-<span style="font-family:Didot; font-size:2em;">Programming Languages</span>
-<br />
-- - - -
-
-   > * need adding
-
-<span style="font-family:Didot; font-size:2em;">Tech Stack</span>
-<br />
-- - - -
-
-   > *  need adding
-   
-   
- 
-<span style="font-family:Didot; font-size:2em;">Projects</span>
-<br />
-- - - -
-
-   > *  need adding
-   
-
-
-- - - -
-> **Email:** askmuhsin@gmail.com
-> **Phone:** 
+Feel free to explore the [website](https://askmuhsin.github.io/) or reach out via [email](mailto:askmuhsin@gmail.com).
